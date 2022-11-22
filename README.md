@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 /*
-  本科NJFU，硕士NUIST，CS专硕在读
+  CS master learning.
 */
 
 <!---
