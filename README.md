@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyTorch, DL, ML, SpringCloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+My current research interests include salient object detection, semantic segmentation, remote sensing images processing.
 /*
   CS master learning.
 */
