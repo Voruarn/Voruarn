@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @Voruarn
 - 👀 I’m interested in PyTorch, JavaEE, Python, DeepLearning, MachineLearning, SpringFramework
 - 🌱 I’m currently learning PyTorch, DL, ML, SpringCloud
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 - 📫 How to reach me ...
 My current research interests include salient object detection, semantic segmentation, remote sensing images processing.
-/*
-  CS master learning.
-  My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
-*/
 
 <!---
 Voruarn/Voruarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
