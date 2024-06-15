@@ -6,6 +6,7 @@
 My current research interests include salient object detection, semantic segmentation, remote sensing images processing.
 /*
   CS master learning.
+  My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 */
 
 <!---
