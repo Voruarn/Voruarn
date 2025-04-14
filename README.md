@@ -3,7 +3,7 @@
 - 🌱 I’m currently a computer vision intern at intsig.
 - 💞️ My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 - 📫 How to reach me ...
-Publication list: GRSL*1, JSTARS*1, CAGEO*1, ISPRS*1.
+- Publication list: GRSL*1, JSTARS*1, CAGEO*1, ISPRS*1.
 
 
 <!---
