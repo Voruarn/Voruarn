@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Voruarn
-- 👀 I’m interested in PyTorch, JavaEE, Python, DeepLearning, MachineLearning, SpringFramework
-- 🌱 I’m currently learning PyTorch, DL, ML, SpringCloud
+- 👀 My current research interests include DeepLearning, Computer Vision (Semantic Segmentation, Salient Object Detection, Image Generation, Self-Supervised Learning), Remote Sensing, Natural Disaster Monitoring.
+- 🌱 I’m currently a computer vision intern at intsig.
 - 💞️ My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 - 📫 How to reach me ...
-My current research interests include salient object detection, semantic segmentation, remote sensing images processing.
+Publication list: GRSL*1, JSTARS*1, CAGEO*1, ISPRS*1.
+
 
 <!---
 Voruarn/Voruarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
