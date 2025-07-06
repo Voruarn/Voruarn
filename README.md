@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Voruarn
 - 👀 My current research interests include DeepLearning, Computer Vision (Semantic Segmentation, Salient Object Detection, Image Generation, Self-Supervised Learning), Remote Sensing, Natural Disaster Monitoring.
-- 🌱 I’m currently a computer vision intern at intsig.
+- 🌱 I was a computer vision intern at INTSIG, Shanghai, China.
+- 🌱 I'm currently a computer vision engineer at Yijiahe Technology CO.,LTD., Nanjing, China.
 - 💞️ My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 - 📫 How to reach me ...
 - My publication list: IEEE GRSL\*1, IEEE JSTARS\*1, CAGEO\*1, ISPRS JPRS\*1, IEEE TGRS\*1.
