@@ -4,7 +4,7 @@
 - 🌱 I'm currently a computer vision engineer at Yijiahe Technology CO.,LTD., Nanjing, China (2025.7->now).
 - 💞️ My ORCID: [0009-0003-1811-7274](https://orcid.org/0009-0003-1811-7274)
 - 📫 How to reach me ...
-- My publication list: ISPRS JPRS\*1, IEEE TGRS\*1, AEI\*1, ESWA\*1, IEEE JSTARS\*1, ENVSOFT\*1, CAGEO\*1, IEEE GRSL\*1.
+- My publication list: ISPRS JPRS\*1, IEEE TGRS\*1, ADVEI\*1, ESWA\*1, IEEE JSTARS\*1, ENVSOFT\*1, CAGEO\*1, IEEE GRSL\*1.
 - I'm also a reviewer for several international journals, such as IEEE TGRS, IEEE TCSVT, Knowledge-Based Systems, etc.
 
 <!---
