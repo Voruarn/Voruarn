@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Voruarn
-- 👀 My current research interests include Computer Vision, VLM Hallucination Detection;
-- Past research interests: Computer Vision (Semantic Segmentation, Salient Object Detection, Image Generation, Self-Supervised Learning), Remote Sensing, Natural Disaster Monitoring.
+- 👀 My current research interests include Computer Vision, VLM Hallucination Detection; Past research interests: Computer Vision (Semantic Segmentation, Salient Object Detection, Image Generation, Self-Supervised Learning), Remote Sensing, Natural Disaster Monitoring.
 - 🌱 I was a computer vision intern at INTSIG, Shanghai, China (2025.02->2025.06).
 - 🌱 I was a computer vision engineer at Yijiahe Technology CO.,LTD., Nanjing, China (2025.07->2026.02).
 - 🌱 I am currently pursuing the PhD degree in Computer Science and Technology at Tongji University, Shanghai, China (2026.02->now).
